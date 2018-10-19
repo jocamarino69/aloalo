@@ -1,3 +1,0 @@
-# aloalo
-just another repository
-
